@@ -6,7 +6,7 @@ description: >
 license: MIT
 metadata:
   author: lovstudio
-  version: "0.2.1"
+  version: "0.2.2"
   card_standard: lovstudio/skill-card/v1
   tags:
     - ataru
@@ -17,7 +17,7 @@ metadata:
   dependencies: []
 ---
 
-# lov-search-chat — 从本地记忆里召回上下文
+# 会话寻踪 · Chat Finder
 
 在本机已有的 AI 会话历史里找出与当前问题相关的过去记录，交回两样能直接用的
 东西：带稳定标识（Project / Session / Message）的排序命中，以及围绕某个命中的一段
